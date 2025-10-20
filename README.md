@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nahid Hasan Ashik
 
-**Software Engineer | AI & IoT Enthusiast | Designer**  
+**Software Engineer**  
 Dhaka, Bangladesh
 
 ---
